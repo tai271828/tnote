@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'tnote'
+project = 'tai271828\'s Notes'
 copyright = '2020, Taihsiang Ho'
 author = 'Taihsiang Ho'
 
