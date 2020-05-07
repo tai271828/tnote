@@ -1,23 +1,14 @@
-===================================
-Hilbert Space and Quantum Mechanics
-===================================
+==========
+Math Tools
+==========
 
 :date: 2020/5/10
 
-This note shows the collection of the math tool we will use very often.
+This note shows the collection of math tools we will use very often.
 
 ***************
 Matrix Exponent
 ***************
-
-
-.. math::
-
-  f(\xi; \xi_r) = \sum_{k=0}^{\infty}
-                  \frac{1}{k!} \frac{\mathrm{d}^k f}{\mathrm{d} \xi^k}
-                  (\xi-\xi_r)^k
-
-
 The Taylor series centered at zero for the exponential function :math:`e^{x}`
 (also called exponential function of Maclaurin series)
 
